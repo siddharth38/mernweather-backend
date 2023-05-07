@@ -7,7 +7,7 @@ Install Node.js version 8.0.0
 git clone  <git lab template url> mernweather-backend
 
 # Install dependencies
-cd mernweather-backend
+cd mernweather-backend/
 npm install
   
 # Build and run the project
